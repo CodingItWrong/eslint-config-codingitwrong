@@ -13,16 +13,13 @@ module.exports = {
     'semi': ['error', 'always'],
 
     // diffs
-    'comma-dangle': [
-      'error',
-      {
-        'arrays': 'always-multiline',
-        'exports': 'always-multiline',
-        'functions': 'always-multiline',
-        'imports': 'always-multiline',
-        'objects': 'always-multiline',
-      }
-    ],
+    'comma-dangle': ['error', {
+      'arrays': 'always-multiline',
+      'exports': 'always-multiline',
+      'functions': 'always-multiline',
+      'imports': 'always-multiline',
+      'objects': 'always-multiline',
+    }],
 
     // enabling refactoring
     'no-alert': ['off'],
