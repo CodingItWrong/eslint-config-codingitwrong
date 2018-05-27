@@ -2,11 +2,15 @@
   "name": "eslint-config-codingitwrong",
   "description": "An ESLint config that doesn't get in the way of refactoring.",
   "keywords": ["eslint", "eslintconfig", "refactoring"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "author": "Josh Justice <me@codingitwrong.com>",
   "license": "Apache",
   "private": false,
+  "homepage": "https://github.com/CodingItWrong/eslint-config-codingitwrong",
+  "bugs": {
+    "url": "https://github.com/CodingItWrong/eslint-config-codingitwrong/issues"
+  },
   "peerDependencies": {
     "eslint": ">= 4"
   }

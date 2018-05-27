@@ -16,11 +16,11 @@ module.exports = {
     'comma-dangle': [
       'error',
       {
-        'arrays': 'only-multiline',
-        'exports': 'only-multiline',
-        'functions': 'only-multiline',
-        'imports': 'only-multiline',
-        'objects': 'only-multiline',
+        'arrays': 'always-multiline',
+        'exports': 'always-multiline',
+        'functions': 'always-multiline',
+        'imports': 'always-multiline',
+        'objects': 'always-multiline',
       }
     ],
 
