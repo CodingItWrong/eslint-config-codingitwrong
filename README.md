@@ -17,11 +17,14 @@ Install the package:
 
 `npm install --save-dev eslint-config-codingitwrong`
 
-Then set it in your ESLint config file:
+Then set it in your ESLint config file. This package doesn't extend `eslint:recommended` itself, but it's _recommended_ that you do so:
 
 ```javascript
 module.exports = {
-  "extends": "codingitwrong",
+  "extends": [
+    "eslint:recommended",
+    "codingitwrong",
+  ],
 };
 ```
 
