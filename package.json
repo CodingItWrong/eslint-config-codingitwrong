@@ -1,7 +1,11 @@
 {
   "name": "eslint-config-codingitwrong",
   "description": "An ESLint config that doesn't get in the way of refactoring.",
-  "keywords": ["eslint", "eslintconfig", "refactoring"],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "refactoring"
+  ],
   "version": "0.1.2",
   "main": "index.js",
   "author": "Josh Justice <me@codingitwrong.com>",
