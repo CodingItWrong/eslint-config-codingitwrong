@@ -5,12 +5,15 @@ module.exports = {
     'eqeqeq': ['error', 'always'],
     'no-eval': ['error'],
     'no-implied-eval': ['error'],
+    'no-inner-declarations': ['error'],
+    'no-invalid-regexp': ['error'],
     'no-template-curly-in-string': ['error'],
     'no-undef': ['error'],
     'no-var': ['error'],
     'no-with': ['error'],
     'require-await': ['error'],
     'semi': ['error', 'always'],
+    'use-isnan': ['error'],
 
     // diffs
     'comma-dangle': ['error', {
