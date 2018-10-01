@@ -9,7 +9,7 @@
   "version": "0.1.2",
   "main": "index.js",
   "author": "Josh Justice <me@codingitwrong.com>",
-  "license": "Apache",
+  "license": "Apache-2.0",
   "private": false,
   "homepage": "https://github.com/CodingItWrong/eslint-config-codingitwrong",
   "bugs": {

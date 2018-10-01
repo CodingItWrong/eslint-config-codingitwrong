@@ -29,4 +29,4 @@ module.exports = {
 
 ## License
 
-Apache
+Apache-2.0
