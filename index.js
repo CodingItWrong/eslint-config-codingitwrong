@@ -7,6 +7,7 @@ module.exports = {
     'no-implied-eval': ['error'],
     'no-return-await': ['error'],
     'no-template-curly-in-string': ['error'],
+    'no-undef': ['error'],
     'no-var': ['error'],
     'no-with': ['error'],
     'require-await': ['error'],
