@@ -6,7 +6,7 @@
     "eslintconfig",
     "refactoring"
   ],
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "author": "Josh Justice <me@codingitwrong.com>",
   "license": "Apache-2.0",
