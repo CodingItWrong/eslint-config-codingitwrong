@@ -29,6 +29,7 @@ module.exports = {
     'no-console': ['off'],
     'no-constant-condition': ['off'],
     'no-debugger': ['off'],
+    'no-empty': ['off'],
     'no-unreachable': ['off'],
 
     // simplicity
