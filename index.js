@@ -27,8 +27,8 @@ module.exports = {
     // enabling refactoring
     'no-alert': ['off'],
     'no-console': ['off'],
-    'no-debugger': ['off'],
     'no-constant-condition': ['off'],
+    'no-debugger': ['off'],
     'no-unreachable': ['off'],
 
     // simplicity
