@@ -33,7 +33,11 @@ module.exports = {
     'no-unreachable': ['off'],
 
     // simplicity
+    'no-dupe-args': ['error'],
+    'no-dupe-keys': ['error'],
     'no-duplicate-imports': ['error'],
+    'no-duplicate-case': ['error'],
+    'no-extra-semi': ['error'],
     'no-return-await': ['error'],
 
     // style
