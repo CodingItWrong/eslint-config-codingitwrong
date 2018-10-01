@@ -40,6 +40,9 @@ module.exports = {
     'no-extra-semi': ['error'],
     'no-return-await': ['error'],
 
+    // conciseness
+    'no-cond-assign': ['off'],
+
     // style
     'indent': ['error', 2],
     'max-len': ['error', { 'code': 80 }],
