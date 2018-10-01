@@ -5,7 +5,6 @@ module.exports = {
     'eqeqeq': ['error', 'always'],
     'no-eval': ['error'],
     'no-implied-eval': ['error'],
-    'no-return-await': ['error'],
     'no-template-curly-in-string': ['error'],
     'no-undef': ['error'],
     'no-var': ['error'],
@@ -31,6 +30,7 @@ module.exports = {
 
     // simplicity
     'no-duplicate-imports': ['error'],
+    'no-return-await': ['error'],
 
     // style
     'indent': ['error', 2],
