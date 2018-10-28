@@ -50,7 +50,10 @@ module.exports = {
     'arrow-spacing': ['error'],
     'block-spacing': ['error', 'always'],
     'brace-style': ['error', '1tbs'],
-    'camelcase': ['error'],
+    'camelcase': ['error', {
+      'properties': 'never',
+      'ignoreDestructuring': true,
+    }],
     'comma-spacing': ['error'],
     'comma-style': ['error', 'last'],
     'eol-last': ['error', 'always'],
