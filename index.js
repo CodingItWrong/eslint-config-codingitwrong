@@ -44,7 +44,9 @@ module.exports = {
     'no-cond-assign': ['off'],
 
     // style
-    'indent': ['error', 2],
+    'indent': ['error', 2, {
+      'SwitchCase': 1,
+    }],
     'max-len': ['error', { 'code': 120 }],
     'array-bracket-spacing': ['error', 'never'],
     'arrow-spacing': ['error'],
