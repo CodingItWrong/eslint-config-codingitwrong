@@ -45,7 +45,7 @@ module.exports = {
 
     // style
     'indent': ['error', 2],
-    'max-len': ['error', { 'code': 80 }],
+    'max-len': ['error', { 'code': 120 }],
     'array-bracket-spacing': ['error', 'never'],
     'arrow-spacing': ['error'],
     'block-spacing': ['error', 'always'],
