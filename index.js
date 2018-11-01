@@ -64,6 +64,7 @@ module.exports = {
     'keyword-spacing': ['error'],
     'linebreak-style': ['error', 'unix'],
     'no-irregular-whitespace': ['error'],
+    'no-multi-spaces': ['error'],
     'no-multiple-empty-lines': ['error', { 'max': 1 }],
     'no-trailing-spaces': ['error'],
     'no-whitespace-before-property': ['error'],
